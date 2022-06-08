@@ -1,6 +1,3 @@
-# References
-
-1. [Test Driven Caching Article](https://testdriven.io/blog/django-caching/)
 
 # Django Caching Types
 built-in options are:
@@ -142,3 +139,9 @@ def object_post_save_handler(sender, **kwargs):
 
 [more info](https://testdriven.io/blog/django-low-level-cache/)
 
+
+
+
+# References
+
+1. [Test Driven Caching Article](https://testdriven.io/blog/django-caching/) -  this's repo is actually conceived from it. 
